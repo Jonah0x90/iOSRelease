@@ -1,0 +1,15 @@
+C:\WorkSapce\JocationRelease-master\Jocation\bin\Debug\Jocation.exe.config
+C:\WorkSapce\JocationRelease-master\Jocation\bin\Debug\Jocation.exe
+C:\WorkSapce\JocationRelease-master\Jocation\bin\Debug\Jocation.pdb
+C:\WorkSapce\JocationRelease-master\Jocation\bin\Debug\iMobileDevice-net.dll
+C:\WorkSapce\JocationRelease-master\Jocation\bin\Debug\iMobileDevice-net.pdb
+C:\WorkSapce\JocationRelease-master\Jocation\bin\Debug\iMobileDevice-net.xml
+C:\WorkSapce\JocationRelease-master\Jocation\obj\Debug\Jocation.csprojAssemblyReference.cache
+C:\WorkSapce\JocationRelease-master\Jocation\obj\Debug\LocationCleaned.frmMain.resources
+C:\WorkSapce\JocationRelease-master\Jocation\obj\Debug\LocationCleaned.frmMap.resources
+C:\WorkSapce\JocationRelease-master\Jocation\obj\Debug\Jocation.Properties.Resources.resources
+C:\WorkSapce\JocationRelease-master\Jocation\obj\Debug\Jocation.csproj.GenerateResource.cache
+C:\WorkSapce\JocationRelease-master\Jocation\obj\Debug\Jocation.csproj.CoreCompileInputs.cache
+C:\WorkSapce\JocationRelease-master\Jocation\obj\Debug\Jocation.csproj.CopyComplete
+C:\WorkSapce\JocationRelease-master\Jocation\obj\Debug\Jocation.exe
+C:\WorkSapce\JocationRelease-master\Jocation\obj\Debug\Jocation.pdb
