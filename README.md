@@ -4,6 +4,9 @@
 - iOS12.2
 - iOS12.3
 - iOS13.0
+- iOS13.1
+- iOS13.2
+- iOS13.3 beta2
 
 ***
 
